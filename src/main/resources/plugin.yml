@@ -1,0 +1,6 @@
+name: Nodrop
+version: ${project.version}
+main: me.noob.minecraft.nodrop.Nodrop
+api-version: 1.16
+authors: [ noobplayer77777 ]
+description: Minecraft but if you drop items you wll die
